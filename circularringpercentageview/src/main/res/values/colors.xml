@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="defaultUnfinish">#6f000000</color>
+
+    <color name="ringShapeStart">#039393</color>
+    <color name="ringShapeEnd">#26ffd9</color>
+
+</resources>
