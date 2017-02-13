@@ -38,7 +38,7 @@ arcProgress1.setDrawMode(CircularRingPercentageView.DrawMode.COMPLETE);
 
 ##3.License
 ```
-Copyright (c) 2015 LingoChamp Inc.
+Copyright (c) 2015 StormBlue.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
