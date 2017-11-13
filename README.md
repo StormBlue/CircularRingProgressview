@@ -1,13 +1,13 @@
 # CircularRingProgressview
 有刻度的进度条，分为四分之一圆和整圆两种表现形式
 
-##1.效果图
+## 1.效果图
 
 ![rendering1](https://raw.githubusercontent.com/StormBlue/CircularRingProgressview/master/source/rendering_01.png)
 
-##2.可选参数
+## 2.可选参数
 
-###1)
+### 1)
 ```xml
   <com.bluestrom.gao.customview.CircularRingPercentageView
     android:id="@+id/circle1"
@@ -26,7 +26,7 @@
     />
 ```
 
-###2)
+### 2)
 每个参数都有对应的set方法，例如：
 ```java
 CircularRingPercentageView arcProgress1 =  (CircularRingPercentageView)findViewById(R.id.circle1);
@@ -36,7 +36,7 @@ arcProgress1.setDrawMode(CircularRingPercentageView.DrawMode.COMPLETE);
 ...
 ```
 
-##3.License
+## 3.License
 ```
 Copyright (c) 2015 StormBlue.
 
