@@ -4,7 +4,11 @@
 
 轻量的 Android 刻度圆环进度组件。Kotlin 实现，支持 XML / Kotlin / Java，提供完整圆环与左右对称填充两种样式。
 
-<img src="source/sample.png" alt="完整圆环、对称填充与示例控制项" width="320" />
+## GIF 演示
+
+<img src="source/demo.gif" alt="完整圆环与对称填充同步演示：0 到 100% 动画、80 / 200 刻度切换、滑动进度与重置" width="360" />
+
+录制自 Android API 30 模拟器中的示例应用，展示两种填充模式、进度动画、滑动调节、重置和 80 / 200 刻度切换。[静态截图](source/sample.png)。
 
 ## 特性
 
