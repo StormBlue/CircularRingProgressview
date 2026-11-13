@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "docs_roots": [
+    "README.md",
+    "openspec"
+  ],
+  "exclude": [
+    ".git/**",
+    "**/build/**"
+  ],
+  "generated_dir": "openspec/generated",
+  "adapters": {}
+}

@@ -1,0 +1,26 @@
+Integrated review, 2026-11-14 client date:
+Reviewed Kotlin library, sample, resource attributes, build files, publication POM,
+README migration contract and instrumentation tests against BR-ring-001/002.
+
+Observed: build.log has successful debug/release builds, connected tests and
+publishToMavenLocal. tests.xml records 5 tests, zero failures. lint.log captures a
+fresh --rerun-tasks run; both module reports say No issues found.
+Published POM contains Kotlin stdlib 2.4.21; no UI framework runtime dependency.
+
+Runtime: launched sample on emulator-5554 (API 30), captured source/sample.png.
+Clicked Reset: UI hierarchy text Progress: 0%.
+Clicked Animate: UI hierarchy text Progress: 100%.
+Clicked density: UI hierarchy text Tick count: 80.
+Inspected screenshot: both ring styles, slider and all buttons visible in portrait.
+
+Performance review: the first batch renderer drew track underneath completed
+segments and was slower in the software benchmark. Revised to disjoint batches;
+latest benchmark.txt records the resulting measurement. This is software Canvas
+CPU time on an emulator, not an end-to-end hardware frame-time benchmark.
+Tick coordinate allocation/trigonometry occur only on geometry changes. Normal
+progress redraws reuse the array, skip equal-value updates and request no layout.
+
+Accessibility/state review: range information and labels are present; restore
+loads max before progress; detach cancels animation; direct progress updates
+cancel animation. Pixel tests distinguish symmetric and sequential fill.
+No unresolved findings. No claim of exhaustive testing across API 23..37.

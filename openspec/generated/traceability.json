@@ -1,0 +1,60 @@
+{
+  "artifacts": [
+    {
+      "id": "DOC-README",
+      "path": "README.md",
+      "relations": [
+        {
+          "target": "REQ-2026-001",
+          "type": "documents"
+        }
+      ],
+      "status": "active",
+      "title": "CircularRingProgressview",
+      "type": "system-doc"
+    },
+    {
+      "id": "EVID-REQ-2026-001",
+      "path": "openspec/changes/archive/2026-11-14-REQ-2026-001-modernize-ring/verification.md",
+      "relations": [
+        {
+          "target": "REQ-2026-001",
+          "type": "validates"
+        }
+      ],
+      "status": "completed",
+      "title": "Verification for Modernize the circular ring library",
+      "type": "evidence"
+    },
+    {
+      "id": "PLAN-REQ-2026-001",
+      "path": "openspec/changes/archive/2026-11-14-REQ-2026-001-modernize-ring/tasks.md",
+      "relations": [
+        {
+          "target": "REQ-2026-001",
+          "type": "implements"
+        }
+      ],
+      "status": "completed",
+      "title": "Implement Modernize the circular ring library",
+      "type": "exec-plan"
+    },
+    {
+      "id": "REQ-2026-001",
+      "path": "openspec/changes/archive/2026-11-14-REQ-2026-001-modernize-ring/proposal.md",
+      "relations": [],
+      "status": "done",
+      "title": "Modernize the circular ring library",
+      "type": "requirement"
+    },
+    {
+      "id": "SPEC-ring",
+      "path": "openspec/specs/ring/spec.md",
+      "relations": [],
+      "status": "active",
+      "title": "Ring product specification",
+      "type": "product-spec"
+    }
+  ],
+  "schema_version": 1
+}

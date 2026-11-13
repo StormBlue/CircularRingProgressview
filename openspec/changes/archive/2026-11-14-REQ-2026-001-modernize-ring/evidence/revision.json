@@ -1,0 +1,352 @@
+{
+  "schema_version": 1,
+  "kind": "dev-spec-flow-revision-capture",
+  "base_commit": "e48317471a5fd3827ca79af0f95f53cdfebaebbc",
+  "scope": [
+    "*.gradle*",
+    ".github/**",
+    ".gitignore",
+    ".idea/**",
+    "app/**",
+    "circularringpercentageview/**",
+    "gradle.properties",
+    "gradle/**",
+    "gradlew*",
+    "source/sample.png"
+  ],
+  "changed_paths": [
+    ".github/workflows/android.yml",
+    ".gitignore",
+    ".idea/.name",
+    ".idea/compiler.xml",
+    ".idea/copyright/profiles_settings.xml",
+    ".idea/encodings.xml",
+    ".idea/gradle.xml",
+    ".idea/misc.xml",
+    ".idea/modules.xml",
+    ".idea/runConfigurations.xml",
+    "app/build.gradle",
+    "app/build.gradle.kts",
+    "app/proguard-rules.pro",
+    "app/src/androidTest/java/com/bluestrom/gao/circularringtest/ApplicationTest.java",
+    "app/src/main/AndroidManifest.xml",
+    "app/src/main/java/com/bluestrom/gao/circularringtest/MainActivity.java",
+    "app/src/main/java/com/bluestrom/gao/circularringtest/MainActivity.kt",
+    "app/src/main/res/drawable/activity_maincontrol_bg.jpg",
+    "app/src/main/res/drawable/ic_ring.xml",
+    "app/src/main/res/layout/activity_main.xml",
+    "app/src/main/res/mipmap-hdpi/ic_launcher.png",
+    "app/src/main/res/mipmap-mdpi/ic_launcher.png",
+    "app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+    "app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+    "app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "app/src/main/res/values-night/styles.xml",
+    "app/src/main/res/values-w820dp/dimens.xml",
+    "app/src/main/res/values/colors.xml",
+    "app/src/main/res/values/dimens.xml",
+    "app/src/main/res/values/strings.xml",
+    "app/src/main/res/values/styles.xml",
+    "app/src/main/res/xml/data_extraction_rules.xml",
+    "app/src/test/java/com/bluestrom/gao/circularringtest/ExampleUnitTest.java",
+    "build.gradle",
+    "build.gradle.kts",
+    "circularringpercentageview/build.gradle",
+    "circularringpercentageview/build.gradle.kts",
+    "circularringpercentageview/proguard-rules.pro",
+    "circularringpercentageview/src/androidTest/java/com/bluestrom/gao/customview/ApplicationTest.java",
+    "circularringpercentageview/src/androidTest/java/com/bluestrom/gao/customview/RingInstrumentedTest.kt",
+    "circularringpercentageview/src/main/AndroidManifest.xml",
+    "circularringpercentageview/src/main/java/com/bluestrom/gao/customview/CircularRingPercentageView.java",
+    "circularringpercentageview/src/main/java/com/bluestrom/gao/customview/CircularRingPercentageView.kt",
+    "circularringpercentageview/src/main/res/values/attrs.xml",
+    "circularringpercentageview/src/main/res/values/colors.xml",
+    "circularringpercentageview/src/main/res/values/strings.xml",
+    "circularringpercentageview/src/test/java/com/bluestrom/gao/customview/ExampleUnitTest.java",
+    "gradle.properties",
+    "gradle/wrapper/gradle-wrapper.jar",
+    "gradle/wrapper/gradle-wrapper.properties",
+    "gradlew",
+    "gradlew.bat",
+    "settings.gradle",
+    "settings.gradle.kts",
+    "source/sample.png"
+  ],
+  "worktree_state": "scoped-dirty",
+  "entries": [
+    {
+      "path": ".github/workflows/android.yml",
+      "status": "added",
+      "sha256": "edab28f931544096048ddec1cd4146fb540b744e6424bda1c9037bfa1df63e63"
+    },
+    {
+      "path": ".gitignore",
+      "status": "modified",
+      "sha256": "1fe9587443087a532801bb96000d32626406eafd6f478f7cc48bc50bb32f790d"
+    },
+    {
+      "path": ".idea/.name",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": ".idea/compiler.xml",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": ".idea/copyright/profiles_settings.xml",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": ".idea/encodings.xml",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": ".idea/gradle.xml",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": ".idea/misc.xml",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": ".idea/modules.xml",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": ".idea/runConfigurations.xml",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "app/build.gradle",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "app/build.gradle.kts",
+      "status": "added",
+      "sha256": "78cf0d7edfe18fbd902a302066f63009fad00b96b0e2e7650fd2703b20188ef2"
+    },
+    {
+      "path": "app/proguard-rules.pro",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "app/src/androidTest/java/com/bluestrom/gao/circularringtest/ApplicationTest.java",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "app/src/main/AndroidManifest.xml",
+      "status": "modified",
+      "sha256": "6f37079185cf0b38db20b3c563711dcce4c94aea8d42f543c78a10daa20bf288"
+    },
+    {
+      "path": "app/src/main/java/com/bluestrom/gao/circularringtest/MainActivity.java",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "app/src/main/java/com/bluestrom/gao/circularringtest/MainActivity.kt",
+      "status": "added",
+      "sha256": "a3ec40aafa7a1b3ddba50eb161410a74a2d76c6e27881da8298642ab4ad15f03"
+    },
+    {
+      "path": "app/src/main/res/drawable/activity_maincontrol_bg.jpg",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_ring.xml",
+      "status": "added",
+      "sha256": "557a452ef466d4d2e1c282e109c050adc8279f71ddf97dd8aac297f6ce3ed80c"
+    },
+    {
+      "path": "app/src/main/res/layout/activity_main.xml",
+      "status": "modified",
+      "sha256": "293213f217cc5c1f08b150fb127404182a7237429e8b6dfcc232f27cd2c92df6"
+    },
+    {
+      "path": "app/src/main/res/mipmap-hdpi/ic_launcher.png",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "app/src/main/res/mipmap-mdpi/ic_launcher.png",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "app/src/main/res/values-night/styles.xml",
+      "status": "added",
+      "sha256": "23b0e47d822dc45ab0ec27c5b8c473bc90b108eca95d8bb7d3c25a7669b54add"
+    },
+    {
+      "path": "app/src/main/res/values-w820dp/dimens.xml",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "app/src/main/res/values/colors.xml",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "app/src/main/res/values/dimens.xml",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "app/src/main/res/values/strings.xml",
+      "status": "modified",
+      "sha256": "20f7cf0509f8ff1b5336e0fff28ef8f179d19028c49085922d930f320a76c47d"
+    },
+    {
+      "path": "app/src/main/res/values/styles.xml",
+      "status": "modified",
+      "sha256": "ea4a9a1ba9b4f96d4e545439ff535984b6b44fb327f4b1fca491922757f30f41"
+    },
+    {
+      "path": "app/src/main/res/xml/data_extraction_rules.xml",
+      "status": "added",
+      "sha256": "36fc03ea0ed9d7c967452a30c28c6fc73e69c774984d13fc6b57e3455c245f80"
+    },
+    {
+      "path": "app/src/test/java/com/bluestrom/gao/circularringtest/ExampleUnitTest.java",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "build.gradle",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "build.gradle.kts",
+      "status": "added",
+      "sha256": "896e41c6d15cf2eb8dd4435118f18d139bda031f73aa0133d89eabddb7dc7c92"
+    },
+    {
+      "path": "circularringpercentageview/build.gradle",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "circularringpercentageview/build.gradle.kts",
+      "status": "added",
+      "sha256": "e5ac54892b4a44089e2c0c0bee7fb327f1be2a2352a980886b3aa76e81bf093d"
+    },
+    {
+      "path": "circularringpercentageview/proguard-rules.pro",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "circularringpercentageview/src/androidTest/java/com/bluestrom/gao/customview/ApplicationTest.java",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "circularringpercentageview/src/androidTest/java/com/bluestrom/gao/customview/RingInstrumentedTest.kt",
+      "status": "added",
+      "sha256": "ef5ae7add2ee18cc08153414a8418e17b4c7519ea999cf617a68b47cb3839d80"
+    },
+    {
+      "path": "circularringpercentageview/src/main/AndroidManifest.xml",
+      "status": "modified",
+      "sha256": "571f2735faf5e857752ee057ac8ef63425576a721616c60b86ee5d4c0a2d682f"
+    },
+    {
+      "path": "circularringpercentageview/src/main/java/com/bluestrom/gao/customview/CircularRingPercentageView.java",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "circularringpercentageview/src/main/java/com/bluestrom/gao/customview/CircularRingPercentageView.kt",
+      "status": "added",
+      "sha256": "a0019d2cd4814644dd5e47ef38763fd7de2416cfc46aee236ea002753795da25"
+    },
+    {
+      "path": "circularringpercentageview/src/main/res/values/attrs.xml",
+      "status": "modified",
+      "sha256": "b322dc28f242a6a17ccf66124690515de7f9fd351924bb351bc2028648226fae"
+    },
+    {
+      "path": "circularringpercentageview/src/main/res/values/colors.xml",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "circularringpercentageview/src/main/res/values/strings.xml",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "circularringpercentageview/src/test/java/com/bluestrom/gao/customview/ExampleUnitTest.java",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "gradle.properties",
+      "status": "modified",
+      "sha256": "d8d660e19bb54e2b18f714b1c69358251e75424a78a39d9b4ae2c6f403eeae29"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.jar",
+      "status": "modified",
+      "sha256": "621008afc4f5d59357fcf06ffa644dd5aade5e091bdc363742710445f73cdaf8"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.properties",
+      "status": "modified",
+      "sha256": "3fc4828c26341727e23829486f84dcf42cedc59569b9a1d9384eb83914cc19fd"
+    },
+    {
+      "path": "gradlew",
+      "status": "modified",
+      "sha256": "e01b5c97892572c82405c02b96a3382379100e7d825ce7c48883d95c26928750"
+    },
+    {
+      "path": "gradlew.bat",
+      "status": "modified",
+      "sha256": "ad2fac6060c5b929bed15d428e09483e52747d0120874346861ad4ec324af64c"
+    },
+    {
+      "path": "settings.gradle",
+      "status": "deleted",
+      "sha256": null
+    },
+    {
+      "path": "settings.gradle.kts",
+      "status": "added",
+      "sha256": "8892dee1bc6e731724e812fa10dabd6c0a0e9900198ecc24a6fa8de51489c82f"
+    },
+    {
+      "path": "source/sample.png",
+      "status": "added",
+      "sha256": "d5386043c073b04021775ec64e2d1e6793c0e58ed5c410d8cbdee826bc62fefc"
+    }
+  ]
+}

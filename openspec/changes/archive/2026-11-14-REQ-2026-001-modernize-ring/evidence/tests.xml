@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuites tests="5" failures="0" errors="0" skipped="0" time="0.000" timestamp="2026-11-13T17:48:27" hostname="localhost">
+  <testsuite name="com.bluestrom.gao.customview.RingInstrumentedTest" tests="5" failures="0" errors="0" skipped="0" time="0.433" timestamp="2026-11-13T17:48:27" hostname="localhost">
+    <properties>
+      <property name="device" value="emulator-5554" />
+    </properties>
+    <testcase name="reportSoftwareDrawCostAgainstLegacyLoop" classname="com.bluestrom.gao.customview.RingInstrumentedTest" time="0.417" />
+    <testcase name="measurementRespectsAtMostAndExactConstraints" classname="com.bluestrom.gao.customview.RingInstrumentedTest" time="0.002" />
+    <testcase name="pixelsCoverEmptyHalfFullAndGeometryChanges" classname="com.bluestrom.gao.customview.RingInstrumentedTest" time="0.013" />
+    <testcase name="stateRestoresMaxBeforeProgressAndAppearance" classname="com.bluestrom.gao.customview.RingInstrumentedTest" time="0.000" />
+    <testcase name="rangeValidationAndClamping" classname="com.bluestrom.gao.customview.RingInstrumentedTest" time="0.001" />
+  </testsuite>
+</testsuites>
