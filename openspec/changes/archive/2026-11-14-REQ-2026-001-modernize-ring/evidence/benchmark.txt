@@ -1,0 +1,1 @@
+11-14 01:48:27.326  7357  7357 I RingBenchmark: software draw median ns: legacy=219182, cached=156191; 200 ticks, 320px, 50%, 5x200 draws after warmup

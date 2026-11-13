@@ -1,0 +1,10 @@
+{
+  "findings": [],
+  "ok": true,
+  "summary": {
+    "artifacts": 4,
+    "errors": 0,
+    "markdown_files": 6,
+    "warnings": 0
+  }
+}

@@ -1,0 +1,88 @@
+Calculating task graph as no cached configuration is available for tasks: lint
+> Task :circularringpercentageview:preBuild UP-TO-DATE
+> Task :circularringpercentageview:generateDebugAssets UP-TO-DATE
+> Task :circularringpercentageview:preDebugBuild UP-TO-DATE
+> Task :app:preBuild UP-TO-DATE
+> Task :circularringpercentageview:processDebugNavigationResources
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :circularringpercentageview:prepareDebugArtProfile
+> Task :circularringpercentageview:extractDeepLinksForAarDebug
+> Task :app:processDebugNavigationResources
+> Task :circularringpercentageview:generateDebugResources
+> Task :circularringpercentageview:checkDebugAarMetadata
+> Task :app:generateDebugResources
+> Task :app:mapDebugSourceSetPaths
+> Task :circularringpercentageview:writeDebugAarMetadata
+> Task :circularringpercentageview:mergeDebugAssets
+> Task :circularringpercentageview:prepareLintJarForPublish
+> Task :app:createDebugCompatibleScreenManifests
+> Task :app:javaPreCompileDebug
+> Task :app:preDebugAndroidTestBuild SKIPPED
+> Task :circularringpercentageview:javaPreCompileDebug
+> Task :circularringpercentageview:extractDeepLinksDebug
+> Task :app:extractDeepLinksDebug
+> Task :app:preDebugUnitTestBuild UP-TO-DATE
+> Task :circularringpercentageview:preDebugAndroidTestBuild UP-TO-DATE
+> Task :circularringpercentageview:preDebugUnitTestBuild UP-TO-DATE
+> Task :circularringpercentageview:mapDebugSourceSetPaths
+> Task :circularringpercentageview:writeDebugLintModelMetadata
+> Task :app:compileDebugNavigationResources
+> Task :app:checkDebugAarMetadata
+> Task :app:extractProguardFiles
+> Task :circularringpercentageview:extractProguardFiles
+> Task :circularringpercentageview:packageDebugResources
+> Task :circularringpercentageview:processDebugManifest
+> Task :app:packageDebugResources
+> Task :circularringpercentageview:compileDebugLibraryResources
+> Task :circularringpercentageview:parseDebugLocalResources
+> Task :app:processDebugMainManifest
+> Task :app:parseDebugLocalResources
+> Task :app:processDebugManifest
+> Task :circularringpercentageview:generateDebugRFile
+> Task :app:mergeDebugResources
+> Task :app:generateDebugRFile
+> Task :app:processDebugManifestForPackage
+> Task :circularringpercentageview:extractDebugAnnotations
+> Task :app:processDebugResources
+> Task :circularringpercentageview:compileDebugKotlin
+> Task :circularringpercentageview:compileDebugJavaWithJavac NO-SOURCE
+> Task :circularringpercentageview:mergeDebugGeneratedProguardFiles
+> Task :circularringpercentageview:compressDebugJavaRes
+> Task :circularringpercentageview:mergeDebugConsumerProguardFiles
+> Task :circularringpercentageview:bundleLibRuntimeToJarDebug
+> Task :circularringpercentageview:mergeDebugJavaResource
+> Task :circularringpercentageview:generateDebugLintReportModel
+> Task :circularringpercentageview:generateDebugLintModel
+> Task :circularringpercentageview:bundleLibCompileToJarDebug
+> Task :circularringpercentageview:createFullJarDebug
+> Task :circularringpercentageview:syncDebugLibJars
+> Task :circularringpercentageview:bundleDebugLocalLintAar
+> Task :circularringpercentageview:generateDebugUnitTestLintModel
+> Task :circularringpercentageview:generateDebugAndroidTestLintModel
+> Task :circularringpercentageview:lintAnalyzeDebugUnitTest
+
+> Task :app:compileDebugKotlin
+w: file:///Volumes/Gao_2T/Projects/AndroidProjects/CircularRingProgressview/app/src/main/java/com/bluestrom/gao/circularringtest/MainActivity.kt:19:60 'static field SOFT_INPUT_ADJUST_RESIZE: Int' is deprecated. Deprecated in Java.
+
+> Task :app:compileDebugJavaWithJavac NO-SOURCE
+> Task :app:bundleDebugClassesToCompileJar
+> Task :app:generateDebugAndroidTestLintModel
+> Task :app:generateDebugLintReportModel
+> Task :app:generateDebugUnitTestLintModel
+> Task :app:lintAnalyzeDebugUnitTest
+> Task :app:lintAnalyzeDebugAndroidTest
+> Task :circularringpercentageview:lintAnalyzeDebugAndroidTest
+> Task :circularringpercentageview:lintAnalyzeDebug
+> Task :circularringpercentageview:lintReportDebug
+> Task :circularringpercentageview:lintDebug
+> Task :circularringpercentageview:lint
+> Task :app:lintAnalyzeDebug
+> Task :app:lintReportDebug
+> Task :app:lintDebug
+> Task :app:lint
+
+[Incubating] Problems report is available at: file:///Volumes/Gao_2T/Projects/AndroidProjects/CircularRingProgressview/build/reports/problems/problems-report.html
+
+BUILD SUCCESSFUL in 4s
+65 actionable tasks: 65 executed
+Configuration cache entry stored.

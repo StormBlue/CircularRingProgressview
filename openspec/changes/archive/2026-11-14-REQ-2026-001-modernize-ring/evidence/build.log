@@ -1,0 +1,251 @@
+Calculating task graph as no cached configuration is available for tasks: assembleDebug assembleRelease lint :circularringpercentageview:connectedDebugAndroidTest :circularringpercentageview:publishToMavenLocal
+> Task :app:preBuild UP-TO-DATE
+> Task :circularringpercentageview:preBuild UP-TO-DATE
+> Task :app:generateReleaseAssets UP-TO-DATE
+> Task :circularringpercentageview:generateDebugAssets UP-TO-DATE
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :circularringpercentageview:generateReleaseAssets UP-TO-DATE
+> Task :circularringpercentageview:generateDebugAndroidTestAssets UP-TO-DATE
+> Task :circularringpercentageview:preDebugBuild UP-TO-DATE
+> Task :circularringpercentageview:prepareLintJarForPublish UP-TO-DATE
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :app:javaPreCompileDebug UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :app:generateDebugGlobalSynthetics UP-TO-DATE
+> Task :circularringpercentageview:mergeDebugAssets UP-TO-DATE
+> Task :circularringpercentageview:processDebugNavigationResources UP-TO-DATE
+> Task :app:checkDebugDuplicateClasses UP-TO-DATE
+> Task :app:desugarDebugFileDependencies UP-TO-DATE
+> Task :circularringpercentageview:generateDebugResources UP-TO-DATE
+> Task :circularringpercentageview:javaPreCompileDebug UP-TO-DATE
+> Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :app:mergeDebugAssets UP-TO-DATE
+> Task :circularringpercentageview:writeDebugAarMetadata UP-TO-DATE
+> Task :app:mapDebugSourceSetPaths UP-TO-DATE
+> Task :app:extractDeepLinksDebug UP-TO-DATE
+> Task :app:processDebugNavigationResources UP-TO-DATE
+> Task :app:packageDebugResources UP-TO-DATE
+> Task :app:mergeExtDexDebug UP-TO-DATE
+> Task :circularringpercentageview:packageDebugResources UP-TO-DATE
+> Task :circularringpercentageview:extractDeepLinksDebug UP-TO-DATE
+> Task :circularringpercentageview:processDebugManifest UP-TO-DATE
+> Task :app:compressDebugAssets UP-TO-DATE
+> Task :app:mergeDebugResources UP-TO-DATE
+> Task :circularringpercentageview:parseDebugLocalResources UP-TO-DATE
+> Task :app:compileDebugNavigationResources UP-TO-DATE
+> Task :circularringpercentageview:mapDebugSourceSetPaths UP-TO-DATE
+> Task :circularringpercentageview:mergeDebugJniLibFolders UP-TO-DATE
+> Task :app:checkDebugAarMetadata UP-TO-DATE
+> Task :circularringpercentageview:mergeDebugNativeLibs NO-SOURCE
+> Task :app:validateSigningDebug UP-TO-DATE
+> Task :app:mergeDebugJniLibFolders UP-TO-DATE
+> Task :app:writeDebugAppMetadata UP-TO-DATE
+> Task :circularringpercentageview:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :app:writeDebugSigningConfigVersions UP-TO-DATE
+> Task :app:parseDebugLocalResources UP-TO-DATE
+> Task :circularringpercentageview:checkDebugAarMetadata UP-TO-DATE
+> Task :app:preReleaseBuild UP-TO-DATE
+> Task :circularringpercentageview:compileDebugLibraryResources UP-TO-DATE
+> Task :circularringpercentageview:preReleaseBuild UP-TO-DATE
+> Task :circularringpercentageview:copyDebugJniLibsProjectOnly UP-TO-DATE
+> Task :circularringpercentageview:prepareDebugArtProfile UP-TO-DATE
+> Task :circularringpercentageview:stripDebugDebugSymbols NO-SOURCE
+> Task :circularringpercentageview:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :circularringpercentageview:generateDebugRFile UP-TO-DATE
+> Task :app:generateDebugRFile UP-TO-DATE
+> Task :circularringpercentageview:javaPreCompileRelease UP-TO-DATE
+> Task :circularringpercentageview:mergeReleaseNativeLibs NO-SOURCE
+> Task :circularringpercentageview:generateReleaseResources UP-TO-DATE
+> Task :app:mergeDebugNativeLibs NO-SOURCE
+> Task :app:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :circularringpercentageview:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :app:stripDebugDebugSymbols NO-SOURCE
+> Task :circularringpercentageview:prepareReleaseArtProfile UP-TO-DATE
+> Task :app:mergeReleaseArtProfile UP-TO-DATE
+> Task :app:checkReleaseDuplicateClasses UP-TO-DATE
+> Task :circularringpercentageview:processReleaseNavigationResources UP-TO-DATE
+> Task :app:generateReleaseResources UP-TO-DATE
+> Task :circularringpercentageview:copyReleaseJniLibsProjectOnly UP-TO-DATE
+> Task :app:mergeReleaseNativeLibs NO-SOURCE
+> Task :app:javaPreCompileRelease UP-TO-DATE
+> Task :app:stripReleaseDebugSymbols NO-SOURCE
+> Task :app:extractReleaseNativeSymbolTables NO-SOURCE
+> Task :app:mergeReleaseNativeDebugMetadata NO-SOURCE
+> Task :circularringpercentageview:extractDebugAnnotations UP-TO-DATE
+> Task :circularringpercentageview:writeReleaseAarMetadata UP-TO-DATE
+> Task :app:mapReleaseSourceSetPaths UP-TO-DATE
+> Task :app:processReleaseNavigationResources UP-TO-DATE
+> Task :app:createReleaseCompatibleScreenManifests UP-TO-DATE
+> Task :circularringpercentageview:extractDeepLinksRelease UP-TO-DATE
+> Task :app:extractDeepLinksRelease UP-TO-DATE
+> Task :app:checkReleaseAarMetadata UP-TO-DATE
+> Task :app:compileReleaseNavigationResources UP-TO-DATE
+> Task :app:extractProguardFiles UP-TO-DATE
+> Task :circularringpercentageview:mapReleaseSourceSetPaths UP-TO-DATE
+> Task :circularringpercentageview:packageReleaseResources UP-TO-DATE
+> Task :app:packageReleaseResources UP-TO-DATE
+> Task :circularringpercentageview:compileDebugKotlin UP-TO-DATE
+> Task :circularringpercentageview:extractProguardFiles UP-TO-DATE
+> Task :circularringpercentageview:processReleaseManifest UP-TO-DATE
+> Task :app:processDebugMainManifest
+> Task :app:extractReleaseVersionControlInfo UP-TO-DATE
+> Task :app:mergeReleaseStartupProfile UP-TO-DATE
+> Task :circularringpercentageview:parseReleaseLocalResources UP-TO-DATE
+> Task :app:parseReleaseLocalResources UP-TO-DATE
+> Task :circularringpercentageview:mergeReleaseAssets UP-TO-DATE
+> Task :circularringpercentageview:generateReleaseRFile UP-TO-DATE
+> Task :circularringpercentageview:checkReleaseAarMetadata UP-TO-DATE
+> Task :app:mergeReleaseAssets UP-TO-DATE
+> Task :circularringpercentageview:compileDebugJavaWithJavac NO-SOURCE
+> Task :circularringpercentageview:compileReleaseLibraryResources UP-TO-DATE
+> Task :circularringpercentageview:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :circularringpercentageview:mergeDebugGeneratedProguardFiles UP-TO-DATE
+> Task :circularringpercentageview:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :circularringpercentageview:mergeDebugConsumerProguardFiles UP-TO-DATE
+> Task :circularringpercentageview:compressDebugJavaRes UP-TO-DATE
+> Task :circularringpercentageview:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :app:compressReleaseAssets UP-TO-DATE
+> Task :app:processDebugManifest
+> Task :app:generateReleaseRFile UP-TO-DATE
+> Task :app:mergeReleaseResources UP-TO-DATE
+> Task :circularringpercentageview:mergeDebugJavaResource UP-TO-DATE
+> Task :app:writeReleaseAppMetadata UP-TO-DATE
+> Task :app:writeReleaseSigningConfigVersions UP-TO-DATE
+> Task :circularringpercentageview:writeReleaseLintModelMetadata UP-TO-DATE
+> Task :circularringpercentageview:stripReleaseDebugSymbols NO-SOURCE
+> Task :circularringpercentageview:syncDebugLibJars UP-TO-DATE
+> Task :circularringpercentageview:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :app:collectReleaseDependencies UP-TO-DATE
+> Task :circularringpercentageview:compileReleaseKotlin UP-TO-DATE
+> Task :circularringpercentageview:extractReleaseAnnotations UP-TO-DATE
+> Task :app:mergeLibDexDebug UP-TO-DATE
+> Task :circularringpercentageview:compileReleaseJavaWithJavac NO-SOURCE
+> Task :app:preDebugAndroidTestBuild SKIPPED
+> Task :circularringpercentageview:mergeReleaseResources UP-TO-DATE
+> Task :app:sdkReleaseDependencyData UP-TO-DATE
+> Task :circularringpercentageview:bundleDebugAar UP-TO-DATE
+> Task :circularringpercentageview:bundleLibCompileToJarRelease UP-TO-DATE
+> Task :circularringpercentageview:bundleLibRuntimeToJarRelease UP-TO-DATE
+> Task :circularringpercentageview:assembleDebug UP-TO-DATE
+> Task :circularringpercentageview:mergeReleaseGeneratedProguardFiles UP-TO-DATE
+> Task :circularringpercentageview:compressReleaseJavaRes UP-TO-DATE
+> Task :circularringpercentageview:exportReleaseConsumerProguardFiles UP-TO-DATE
+> Task :circularringpercentageview:mergeReleaseConsumerProguardFiles UP-TO-DATE
+> Task :circularringpercentageview:createFullJarRelease UP-TO-DATE
+> Task :app:processReleaseMainManifest
+> Task :app:compileDebugKotlin UP-TO-DATE
+> Task :circularringpercentageview:generateReleaseLintModel UP-TO-DATE
+> Task :app:compileDebugJavaWithJavac NO-SOURCE
+> Task :circularringpercentageview:mergeReleaseJavaResource UP-TO-DATE
+> Task :circularringpercentageview:bundleDebugLocalLintAar UP-TO-DATE
+> Task :circularringpercentageview:createFullJarDebug UP-TO-DATE
+> Task :app:compileReleaseKotlin UP-TO-DATE
+> Task :app:compressDebugJavaRes UP-TO-DATE
+> Task :app:processDebugManifestForPackage
+> Task :app:compileReleaseJavaWithJavac NO-SOURCE
+> Task :circularringpercentageview:syncReleaseLibJars UP-TO-DATE
+> Task :circularringpercentageview:writeDebugLintModelMetadata UP-TO-DATE
+> Task :app:mergeDebugJavaResource UP-TO-DATE
+> Task :app:compressReleaseJavaRes UP-TO-DATE
+> Task :app:processReleaseManifest
+> Task :circularringpercentageview:generateReleaseLintVitalModel UP-TO-DATE
+> Task :app:mergeReleaseJavaResource UP-TO-DATE
+> Task :app:preDebugUnitTestBuild UP-TO-DATE
+> Task :circularringpercentageview:bundleReleaseAar UP-TO-DATE
+> Task :circularringpercentageview:preDebugAndroidTestBuild UP-TO-DATE
+> Task :circularringpercentageview:preDebugUnitTestBuild UP-TO-DATE
+> Task :circularringpercentageview:bundleReleaseLocalLintAar UP-TO-DATE
+> Task :circularringpercentageview:generateDebugLintModel UP-TO-DATE
+> Task :circularringpercentageview:lintVitalAnalyzeRelease UP-TO-DATE
+> Task :app:generateReleaseLintVitalReportModel
+> Task :circularringpercentageview:lintAnalyzeDebug UP-TO-DATE
+> Task :circularringpercentageview:generateDebugUnitTestLintModel UP-TO-DATE
+> Task :circularringpercentageview:generateDebugLintReportModel UP-TO-DATE
+> Task :app:processReleaseManifestForPackage
+> Task :circularringpercentageview:generateDebugAndroidTestResources UP-TO-DATE
+> Task :circularringpercentageview:verifyReleaseResources UP-TO-DATE
+> Task :circularringpercentageview:assembleRelease UP-TO-DATE
+> Task :circularringpercentageview:lintAnalyzeDebugUnitTest UP-TO-DATE
+> Task :circularringpercentageview:javaPreCompileDebugAndroidTest UP-TO-DATE
+> Task :circularringpercentageview:processDebugAndroidTestNavigationResources UP-TO-DATE
+> Task :circularringpercentageview:packageDebugAndroidTestResources UP-TO-DATE
+> Task :circularringpercentageview:generateDebugAndroidTestLintModel
+> Task :circularringpercentageview:generateDebugAndroidTestGlobalSynthetics UP-TO-DATE
+> Task :circularringpercentageview:mergeDebugAndroidTestAssets UP-TO-DATE
+> Task :circularringpercentageview:parseDebugAndroidTestLocalResources UP-TO-DATE
+> Task :circularringpercentageview:checkDebugAndroidTestDuplicateClasses UP-TO-DATE
+> Task :circularringpercentageview:compressDebugAndroidTestAssets UP-TO-DATE
+> Task :app:generateDebugLintReportModel
+> Task :circularringpercentageview:desugarDebugAndroidTestFileDependencies UP-TO-DATE
+> Task :circularringpercentageview:mapDebugAndroidTestSourceSetPaths UP-TO-DATE
+> Task :circularringpercentageview:checkDebugAndroidTestAarMetadata UP-TO-DATE
+> Task :circularringpercentageview:mergeExtDexDebugAndroidTest UP-TO-DATE
+> Task :circularringpercentageview:compileDebugAndroidTestNavigationResources UP-TO-DATE
+> Task :circularringpercentageview:generateDebugAndroidTestRFile UP-TO-DATE
+> Task :circularringpercentageview:mergeLibDexDebugAndroidTest UP-TO-DATE
+> Task :circularringpercentageview:mergeDebugAndroidTestJniLibFolders UP-TO-DATE
+> Task :circularringpercentageview:validateSigningDebugAndroidTest UP-TO-DATE
+> Task :circularringpercentageview:writeDebugAndroidTestSigningConfigVersions UP-TO-DATE
+> Task :circularringpercentageview:mergeDebugAndroidTestManifest UP-TO-DATE
+> Task :circularringpercentageview:mergeDebugAndroidTestNativeLibs NO-SOURCE
+> Task :circularringpercentageview:mergeDebugAndroidTestResources UP-TO-DATE
+> Task :circularringpercentageview:stripDebugAndroidTestDebugSymbols NO-SOURCE
+> Task :circularringpercentageview:processDebugAndroidTestManifest UP-TO-DATE
+> Task :circularringpercentageview:sourceReleaseJar UP-TO-DATE
+> Task :circularringpercentageview:generatePomFileForReleasePublication UP-TO-DATE
+> Task :circularringpercentageview:generateMetadataFileForReleasePublication
+> Task :circularringpercentageview:processDebugAndroidTestResources UP-TO-DATE
+> Task :circularringpercentageview:publishReleasePublicationToMavenLocal
+> Task :circularringpercentageview:publishToMavenLocal
+> Task :app:processReleaseResources
+> Task :app:processDebugResources
+> Task :app:expandReleaseArtProfileWildcards UP-TO-DATE
+> Task :app:mergeReleaseGeneratedProguardFiles UP-TO-DATE
+> Task :app:bundleDebugClassesToCompileJar UP-TO-DATE
+> Task :app:dexBuilderDebug UP-TO-DATE
+> Task :app:mergeProjectDexDebug UP-TO-DATE
+> Task :app:generateDebugUnitTestLintModel
+> Task :app:generateDebugAndroidTestLintModel
+> Task :app:packageDebug
+> Task :app:assembleDebug
+> Task :app:createDebugApkListingFileRedirect UP-TO-DATE
+> Task :app:lintVitalAnalyzeRelease
+> Task :app:lintAnalyzeDebugAndroidTest
+> Task :app:lintVitalReportRelease SKIPPED
+> Task :app:lintVitalRelease SKIPPED
+> Task :circularringpercentageview:compileDebugAndroidTestKotlin
+> Task :circularringpercentageview:compileDebugAndroidTestJavaWithJavac NO-SOURCE
+> Task :circularringpercentageview:compressDebugAndroidTestJavaRes UP-TO-DATE
+> Task :circularringpercentageview:mergeDebugAndroidTestJavaResource UP-TO-DATE
+> Task :app:lintAnalyzeDebugUnitTest
+> Task :circularringpercentageview:dexBuilderDebugAndroidTest
+> Task :circularringpercentageview:mergeProjectDexDebugAndroidTest
+> Task :circularringpercentageview:packageDebugAndroidTest
+> Task :circularringpercentageview:createDebugAndroidTestApkListingFileRedirect UP-TO-DATE
+> Task :circularringpercentageview:lintAnalyzeDebugAndroidTest
+> Task :app:lintAnalyzeDebug
+> Task :app:lintReportDebug UP-TO-DATE
+> Task :circularringpercentageview:lintReportDebug UP-TO-DATE
+> Task :app:lintDebug
+> Task :app:lint
+> Task :circularringpercentageview:lintDebug
+> Task :circularringpercentageview:lint
+> Task :app:minifyReleaseWithR8
+> Task :app:compileReleaseArtProfile UP-TO-DATE
+> Task :app:convertShrunkResourcesToBinaryRelease
+> Task :app:optimizeReleaseResources
+> Task :app:packageRelease
+> Task :app:assembleRelease
+> Task :app:createReleaseApkListingFileRedirect UP-TO-DATE
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::arrayBaseOffset has been called by com.google.protobuf.UnsafeUtil$MemoryAccessor (file:/Volumes/Gao_2T/.dev/java/gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.25.5/5ae5c9ec39930ae9b5a61b32b93288818ec05ec1/protobuf-java-3.25.5.jar)
+WARNING: Please consider reporting this to the maintainers of class com.google.protobuf.UnsafeUtil$MemoryAccessor
+WARNING: sun.misc.Unsafe::arrayBaseOffset will be removed in a future release
+
+> Task :circularringpercentageview:connectedDebugAndroidTest
+Running tests on devices: CircularRing_API30(AVD) - 11
+
+BUILD SUCCESSFUL in 6s
+198 actionable tasks: 32 executed, 166 up-to-date
+Configuration cache entry stored.
